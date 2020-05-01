@@ -1,0 +1,16 @@
+.nav {
+    background-color: #f8f8cf;
+}
+
+.nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: center;
+}
+
+.nav-list-item {
+    margin: 10px 20px;
+}
